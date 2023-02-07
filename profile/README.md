@@ -21,6 +21,6 @@
   <img src="assets/icons8-linkedin-48.png" height="32"/>
 </a>
 <a style="text-decoration: none" href="https://www.youtube.com/channel/UC2bWkiSZ0oBxIwKDoPppe1w" target="_blank">
-  <img src="assets/icons8-youtube-48.png" height="4832"/>
+  <img src="assets/icons8-youtube-48.png" height="32"/>
 </a>
           
