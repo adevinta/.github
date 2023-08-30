@@ -1,5 +1,11 @@
-<a href="https://www.adevinta.com/">
-    <img target="_blank" src="assets/adevinta-blue.png" height="80px"/>
+<a href="https://www.adevinta.com/" target="_blank">
+  <picture>
+    <!-- Use this image if the user's OS setting is light or unset -->
+    <source srcset="assets/adevinta-blue.png" media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)">
+    <!-- Use this image if the user's OS setting is dark -->
+    <source srcset="assets/adevinta-white.png" media="(prefers-color-scheme: dark)">
+    <img  src="assets/adevinta-blue.png" height="80px"/>
+  </picture>
 </a>
 
 <br/>
